@@ -1,0 +1,7 @@
+# Things we don't want
+# in the repository
+#=======================
+
+# OSX thumbnails
+#-----------------------
+*.DS_Store
