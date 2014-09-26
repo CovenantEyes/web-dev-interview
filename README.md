@@ -19,5 +19,5 @@ Download version:
 
 ### Other info
 
-- You may use any development tool or libary you wish to complete the project.
+- You may use any development tool or library you wish to complete the project.
 - You may create other files and folders as necessary
