@@ -2,7 +2,7 @@
 
 ### Project Requirements
 
-You will have One Hour to complete this task.
+You will have **ninety minutes** to complete this task.
 
 Github version:
 - Fork or clone this project on Github
